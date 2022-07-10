@@ -28,8 +28,9 @@ else:
     print("Tails")
 '''
 #version 2
+#version 2
 # 🚨 Don't change the code below 👇
-test_seed = int(input("Create a seed number (1 - 10): "))
+test_seed = int(input("Create a seed number: "))
 random = random.randint(0, 1)
  # 🚨 Don't change the code above 👆 It's only for testing your code.
 	 
