@@ -8,7 +8,6 @@ for n in range(0, len(student_heights)):
 
 #Write your code below this row 👇
 
-# [180, 124, 165, 173, 189, 169, 146]
 # [180 124 165 173 189 169 146]
 # 156 178 165 171 187
 
