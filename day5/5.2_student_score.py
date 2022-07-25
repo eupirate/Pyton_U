@@ -7,7 +7,7 @@ print(student_scores)
 
 #Write your code below this row 👇
 
-# 78 65 89 86 55 91 64 89
+# 78 65 89 86 55 91 64 89 100
 
 max_score = 0
 for score in student_scores:
